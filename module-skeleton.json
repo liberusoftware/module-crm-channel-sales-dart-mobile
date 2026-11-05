@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-channel-sales-dart-mobile",
+  "capabilityKey": "liberusoftware/module-crm-channel-sales",
+  "presentation": "dart-mobile",
+  "package": "module_crm_channel_sales_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/crm/nextjs/channel-sales.md",
+  "presentationPlan": "projects/crm/features/channel-sales.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
